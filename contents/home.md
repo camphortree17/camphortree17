@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+[![camphortree17](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/camphortree17)
+
+
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: camphortree[at]sjtu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Undergrad student, Automation, Shanghai Jiaotong University, 2022—2026.\
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+
+
+
 
