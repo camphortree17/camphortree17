@@ -7,7 +7,7 @@
 
 #### Contact
 
-Email: camphortree[at]sjtu.edu.cn
+Email: camphortree17[at]sjtu.edu.cn
 
 #### Education
 Undergrad student, Automation, Shanghai Jiaotong University, 2022—2026.\
